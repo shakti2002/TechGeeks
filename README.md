@@ -30,29 +30,34 @@ The primary objective is to deliver empathetic and tailored assistance to users 
 
  # Tech Stack
   Libraries:
-  TensorFlow 
-  Keras
-  PyTorch 
-  Scikit-Learn
-  LSTM Model
-  OS
-  OpenCV
-  gTTs
-  Pyttsx3
-  pydubb
-  Subproess
+  1. TensorFlow 
+  2. Keras
+  3. PyTorch 
+  4. Scikit-Learn
+  6. LSTM Model
+  7. OS
+  8. OpenCV
+  9. gTTs
+  10. Pyttsx3
+  11. pydubb
+  12. Subproess
 
 
  # Web 
- HTML, CSS
- javascript 
- Soket.io
- flask
- streamlit
- React
- NoSQl
+ 1. HTML, CSS
+ 2. javascript 
+ 3. Soket.io
+ 4. flask
+ 5. React
+ 6. NoSQl
  
- # Training Model
- DecisionTreeClassifier
- SVM(support vector machine)
+# Algorithms Used
+ 1. DecisionTreeClassifier
+ 2. NLP- Natural language processing
+ 3. Image analysis and classification (Resnet50)
  
+# Block Diagram
+  ![diagram-export-11-5-2023-10_19_08-AM](https://github.com/shakti2002/TechGeeks/assets/109802187/886edfef-af17-4bbb-90c0-c8d6e5bfe04f)
+
+# Presentation
+https://drive.google.com/file/d/1rdKBy9d5_LXhMd6Znhctk3HyeJ_BHLEw/view?usp=sharing
