@@ -1,0 +1,9 @@
+.nav{
+    background:transparent;
+    color: Black;
+    width: 100%;
+    height:56px;
+    display: flex;
+    text-align: center;
+    /* border-bottom: 1px solid #fff; */
+}
